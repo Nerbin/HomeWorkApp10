@@ -27,7 +27,7 @@ public class WorkHomeApp10 {
 
     public static void printTextNTimes(int n, String text) {
         for (int i = 0; i < n; i++) {
-            System.out.println(text);
+            System.out.print(text + "\n");
         }
     }
 
